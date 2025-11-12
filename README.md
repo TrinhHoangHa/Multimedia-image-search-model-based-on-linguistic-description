@@ -53,16 +53,19 @@ Hệ thống sử dụng mô hình **CLIP (Contrastive Language-Image Pre-Traini
 
 ## **💾 Cài đặt**
 
-1. Clone repository này về máy của bạn:  
+1. Clone repository này về máy của bạn
 
-2. Di chuyển vào thư mục dự án:  
+2. Tải folder images trên link drive sau về máy:
+   https://drive.google.com/drive/folders/1fxpTvodmytcI8gBfnuQOFWZPkoZn42nz?usp=sharing
+
+4. Di chuyển vào thư mục dự án:  
    cd ten-repo-cua-ban
 
-3. (Khuyến nghị) Tạo một môi trường ảo (virtual environment):  
+5. (Khuyến nghị) Tạo một môi trường ảo (virtual environment):  
    python \-m venv venv  
    source venv/bin/activate  \# Trên Windows: venv\\Scripts\\activate
 
-4. Cài đặt các gói thư viện cần thiết:  
+6. Cài đặt các gói thư viện cần thiết:  
    pip install \-r requirements.txt
 
 ## **🛠️ Sử dụng**
