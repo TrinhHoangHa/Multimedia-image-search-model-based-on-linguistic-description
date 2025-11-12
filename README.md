@@ -106,23 +106,6 @@ Hệ thống được đánh giá bằng kịch bản evaluate.py trên 7 nhãn 
 * Độ chính xác Top-10: 100.00%  
   (Kết quả được coi là "Đúng" nếu ít nhất một trong 10 ảnh trả về thuộc đúng nhãn với câu truy vấn "a photo of a \[nhãn\]")
 
-## **📁 Cấu trúc dự án**
-
-.  
-├── app.py              \# Ứng dụng Streamlit chính (Demo tìm kiếm)  
-├── train.py            \# Kịch bản huấn luyện (tinh chỉnh) mô hình CLIP  
-├── evaluate.py         \# Ứng dụng Streamlit để đánh giá Top-K Accuracy  
-├── models.py           \# (Không dùng cho CLIP) Định nghĩa mô hình ResNet/BERT  
-├── search.py           \# Kịch bản tìm kiếm cơ bản (không có giao diện)  
-├── extract\_features.py \# (Không dùng cho CLIP) Trích xuất đặc trưng ResNet  
-├── requirements.txt    \# Các gói thư viện Python cần thiết  
-├── checkpoints/        \# Thư mục chứa các model đã huấn luyện  
-│   └── clip\_best.pt    \# Model CLIP đã được tinh chỉnh  
-├── images/             \# Thư mục chứa bộ dữ liệu ảnh  
-│   ├── Audi/  
-│   │   └── 1.jpg  
-│   └── ...  
-└── metadata.csv        \# Tệp CSV ánh xạ tên ảnh và mô tả
 
 ## **👨‍💻 Tác giả**
 
