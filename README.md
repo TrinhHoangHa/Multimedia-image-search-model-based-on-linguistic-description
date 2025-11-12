@@ -1,28 +1,36 @@
-\<div align="center"\>
 
-\<p align="center"\>  
-  \<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/vi/thumb/d/db/Dai\_hoc\_Dai\_Nam.png/220px-Dai\_hoc\_Dai\_Nam.png" alt="DaiNam University Logo" width="150"/\>  
-\</p\>
 
-# **Mô hình tìm kiếm hình ảnh phương tiện 🚗🔍**
+# Mô hình tìm kiếm hình ảnh phương tiện 🚗🔍
 
-\<h3 align="center"\>Hệ thống tìm kiếm hình ảnh thông minh sử dụng mô hình CLIP và mô tả ngôn ngữ tự nhiên\</h3\>
+<div align="center">
 
-\<p align="center"\>  
-  \<a href="\#-tính-năng"\>Tính năng\</a\> •  
-  \<a href="\#-công-nghệ-sử-dụng"\>Công nghệ\</a\> •  
-  \<a href="\#-cài-đặt"\>Cài đặt\</a\> •  
-  \<a href="\#-sử-dụng"\>Sử dụng\</a\> •  
-  \<a href="\#-kết-quả-đánh-giá"\>Kết quả\</a\> •  
-  \<a href="\#-cấu-trúc-dự-án"\>Cấu trúc\</a\>  
-\</p\>  
-\<p align="center"\>  
-   
-   
-   
-   
-\</p\>  
-\</div\>
+<p align="center">
+  <img src="image/logo.png" alt="DaiNam University Logo" width="200"/>
+  <img src="image/AIoTLab_logo.png" alt="AIoTLab Logo" width="170"/>
+</p>
+
+[![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://fit.dainam.edu.vn)
+[![Faculty of IT](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-green?style=for-the-badge)](https://fit.dainam.edu.vn)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-red?style=for-the-badge)](https://dainam.edu.vn)
+
+
+</div>
+
+<h3 align="center">🔬 Advanced Academic Integrity Through AI Innovation</h3>
+
+<p align="center">
+  <strong>A Next-Generation Plagiarism Detection System Powered by Deep Learning and Vector Search Technology</strong>
+</p>
+
+<p align="center">
+  <a href="#-architecture">Architecture</a> •
+  <a href="#-key-features">Features</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-installation">Installation</a> •
+  <a href="#-getting-started">Getting Started</a> •
+  <a href="#-documentation">Docs</a>
+</p>
+# Mô hình tìm kiếm hình ảnh phương tiện 🚗🔍
 
 Dự án này xây dựng một hệ thống tìm kiếm hình ảnh thông minh, cho phép người dùng truy vấn hình ảnh phương tiện (ô tô, xe máy, v.v.) bằng cách sử dụng các câu mô tả bằng ngôn ngữ tự nhiên, thay vì phụ thuộc vào các thẻ (tags) gán thủ công.
 
