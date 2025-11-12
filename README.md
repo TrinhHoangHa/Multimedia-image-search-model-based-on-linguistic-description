@@ -54,7 +54,6 @@ Hệ thống sử dụng mô hình **CLIP (Contrastive Language-Image Pre-Traini
 ## **💾 Cài đặt**
 
 1. Clone repository này về máy của bạn:  
-   git clone \[https://github.com/ten-cua-ban/ten-repo-cua-ban.git\](https://github.com/ten-cua-ban/ten-repo-cua-ban.git)
 
 2. Di chuyển vào thư mục dự án:  
    cd ten-repo-cua-ban
